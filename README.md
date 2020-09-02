@@ -1,10 +1,14 @@
-# Sort-Visualizer
+# Visualization of different algorithms
 
 ### Visualization of:
-- Bubble sort
-- insertion sort
-- mergesort
-- quicksort with hoare partition
+1. Sorts algorithms:
+   - Bubble sort
+   - insertion sort
+   - mergesort
+   - quicksort ,hoare partition
+2. Binary search
+3. pathfinder (coming soon)
+
 
 implemnted in p5.js
 
