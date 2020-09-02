@@ -32,6 +32,7 @@ function setup() {
 }
 
 async function search() {
+  button.attribute("disabled", "");
   loop();
   searchedVal = input.value();
   let inx = await binarySearch(arr, 0, arr.length - 1, searchedVal);
@@ -48,6 +49,7 @@ async function search() {
   strokeWeight(2);
   text(msg + ".", width / 2, 70);
   textAlign(CENTER);
+  button.removeAttribute("disabled");
 }
 
 async function binarySearch(arr, start, end, x) {
