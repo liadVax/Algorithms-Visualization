@@ -9,11 +9,10 @@
 2. Binary search
 3. pathfinder (coming soon)
 
-
-implemnted in p5.js
-
 ### preview:
 
 sorts:  https://editor.p5js.org/liadVax/present/wFo-MuvQU
 
 binary-search: https://editor.p5js.org/liadVax/present/c7udGZcwx
+
+implemnted in p5.js
