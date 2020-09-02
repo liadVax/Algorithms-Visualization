@@ -13,4 +13,6 @@
 implemnted in p5.js
 
 preview:
-https://editor.p5js.org/liadVax/present/wFo-MuvQU
+sorts:  https://editor.p5js.org/liadVax/present/wFo-MuvQU
+
+binary-search: https://editor.p5js.org/liadVax/present/c7udGZcwx
